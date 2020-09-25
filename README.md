@@ -4,5 +4,5 @@ Fast-web crawling and scraping app that can be used to mine web pages and extrac
 Uses HTML, CSS, and Node.js to execute mining.
 
 <img src="https://hackernoon.com/hn-images/1*kfOsUxggG5wDbDcxgC0Uwg.png">
-<img src="https://drive.google.com/file/d/1mrzTwtgS-JfkUGsCRId4zVpvq3rFcflo/view?usp=sharing">
+
 
